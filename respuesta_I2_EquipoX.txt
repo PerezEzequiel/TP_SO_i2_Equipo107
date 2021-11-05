@@ -1,5 +1,8 @@
 Participantes 
-Kevin Condori
-Thomas Hammer
-Perez Ezequiel
+Kevin Condori - ALFA
+Thomas Hamer - GAMMA
+Perez Ezequiel - BETA
+
+a)Con un git pull al Repositorio.
+b)Si puede actualizar su Fork.
 
